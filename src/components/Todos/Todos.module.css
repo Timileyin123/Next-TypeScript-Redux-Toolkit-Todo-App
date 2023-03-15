@@ -1,0 +1,7 @@
+.todos{
+    width: 30em;
+    list-style-type: none;
+    padding: 0;
+    margin: 2em auto;
+    font-weight: bold;
+}
